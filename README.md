@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Dwivedi</h1>
-<h3 align="center">BCA Student | Aspiring Full-Stack Developer | MERN Stack Learner</h3>
+<h3 align="center">BCA Student | Aspiring Full-Stack Developer (MERN)</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/dheeraj12">
@@ -18,58 +18,90 @@
 
 ---
 
-## 💫 About Me
+## 🎯 About Me (Internship Ready)
 
-🎓 BCA student and aspiring **Full-Stack Developer**  
-🌱 Learning **MERN Stack** (React, Node.js, MongoDB)  
-💡 Love building real-world projects  
-🧠 Focused on clean code & best practices  
-🚀 Looking for internships & entry-level roles
+🎓 BCA student with strong interest in **Full-Stack Web Development**  
+🌱 Currently learning & building projects using **MERN Stack**  
+💡 Passionate about converting ideas into real-world applications  
+🧠 Focused on clean code, reusable components & best practices  
+🚀 Actively seeking **Web Development / Frontend / MERN Internships**
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Skills
 
 ### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
-</p>
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Redux
+- Tailwind CSS, Styled Components
+- React Router, React Hook Form
+- MUI, Radix UI
 
-### Backend & Tools
-<p>
-  <img src="https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io"/>
-</p>
+### Backend
+- Node.js, Express.js
+- MongoDB (CRUD, Mongoose)
+- REST APIs
+- Socket.io (Real-time apps)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dheeraj087&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj087&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj087&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### Tools
+- Git & GitHub
+- Vite
+- Chart.js
+- EJS
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=dheeraj087&icon=0&color=0"/>
-</p>
+## 🚀 Featured Projects
+
+### 🔹 Full-Stack MERN Application
+**Tech:** React, Node.js, Express, MongoDB  
+- User authentication (Login / Register)
+- REST API integration
+- CRUD functionality
+- Responsive UI
+- Clean folder structure
+
+👉 *Repo:* `Coming Soon / Add your repo link`
 
 ---
 
-⭐ Thanks for visiting my profile  
-🤝 Open to collaboration & opportunities
+### 🔹 Real-Time Chat Application
+**Tech:** React, Socket.io, Node.js  
+- Real-time messaging
+- Multiple users support
+- Modern UI
+- WebSocket integration
+
+👉 *Repo:* `Add your repo link`
+
+---
+
+### 🔹 React Dashboard / Analytics App
+**Tech:** React, Chart.js  
+- Interactive charts & graphs
+- Reusable components
+- Clean UI & state management
+
+👉 *Repo:* `Add your repo link`
+
+---
+
+## 🧠 What I’m Currently Learning
+- Advanced React patterns
+- Backend architecture
+- API security & authentication
+- Real-world project structure
+
+---
+
+## 🤝 Looking For
+✅ Web Development Internship  
+✅ Frontend / MERN Internship  
+✅ Learning-focused environment  
+✅ Mentorship & real-world exposure  
+
+📩 **Feel free to reach out — I’m open to opportunities and collaboration!**
+
+---
+
+⭐ If you like my work, consider checking out my repositories
